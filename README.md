@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm **Ali**, a passionate **Computer Science student** who
 ---
 
 ## 📫 How to Reach Me  
-- 📧 Email: [YourEmail@example.com](he397772@uaeh.edu.mx)  
-- 🐦 Twitter: [@Alo](https://x.com/alioscartz?s=21)  
+- 📧 Email: [he397772@uaeh.edu.mx](he397772@uaeh.edu.mx)  
+- 🐦 Twitter: [@AliOscarTz](https://x.com/alioscartz?s=21)  
 - 📸 Instagram: [Ali](https://www.instagram.com/alihm_07?igsh=MXR2dmdrcG9pdzhwZw%3D%3D&utm_source=qr)
 
 ---
